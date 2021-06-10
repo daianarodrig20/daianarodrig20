@@ -1,6 +1,6 @@
-#- 👋 Hi, I’m @daianarodrig20
-#- 👀 I’m interested in DevOps
-#- 🌱 I’m currently learning systems engineering
+# - 👋 Hi, I’m @daianarodrig20
+# - 👀 I’m interested in DevOps
+# - 🌱 I’m currently learning systems engineering
 // - 💞️ I’m looking to collaborate on ...
 // - 📫 How to reach me ...
 
