@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @daianarodrig20
+# - 👋 Hi, I’m Daiana Rodriguez [@daianarodrig20]
 # - 👀 I’m interested in DevOps
 # - 🌱 I’m currently learning systems engineering
 // - 💞️ I’m looking to collaborate on ...
