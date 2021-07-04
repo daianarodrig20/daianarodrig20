@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Daiana Rodriguez [@daianarodrig20]
-# - 👀 I’m interested in DevOps
+# - 👀 I’m interested in DevOps, Python and Ethical Hacking
 # - 🌱 I’m currently learning systems engineering
 // - 💞️ I’m looking to collaborate on ...
 // - 📫 How to reach me ...
