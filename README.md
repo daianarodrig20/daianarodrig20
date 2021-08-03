@@ -3,7 +3,7 @@
 # - 🌱 I’m currently learning systems engineering
 # - 📫 How to reach me: 
 * Mail: daianarodriguez020@gmail.com
-* Twitter: daianarodrig20
+* Twitter: @daianarodrig20
 
 <!---
 daianarodrig20/daianarodrig20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
