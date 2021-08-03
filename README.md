@@ -1,8 +1,9 @@
 # - 👋 Hi, I’m Daiana Rodriguez [@daianarodrig20]
 # - 👀 I’m interested in DevOps, Python and Ethical Hacking
 # - 🌱 I’m currently learning systems engineering
-// - 💞️ I’m looking to collaborate on ...
-// - 📫 How to reach me ...
+# - 📫 How to reach me: 
+* Mail: daianarodriguez020@gmail.com
+* Twitter: daianarodrig20
 
 <!---
 daianarodrig20/daianarodrig20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
