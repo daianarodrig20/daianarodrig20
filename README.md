@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Daiana Rodriguez [@daianarodrig20]
+# - 👋 Hi, I’m Daiana Rodriguez
 # - 👀 I’m interested in DevOps, Python and Ethical Hacking
 # - 🌱 I’m currently learning systems engineering
 # - 📫 How to reach me: 
