@@ -1,6 +1,6 @@
 # *print("Hi, i’m Daiana Rodriguez and i'm an DevOps 👋")*
-- 👀 I’m interested in DevOps, Python and Ethical Hacking
-- 🌱 I’m currently learning systems engineering
+- 👩🏻‍💻 I’m interested in DevOps, Python and Ethical Hacking
+- 📚 I’m currently learning Systems Engineering
 - 📫 How to reach me: daianarodriguez020@gmail.com or [LinkedIn](https://www.linkedin.com/in/daiana-rodriguez-291a98196/)
 
 <!---
